@@ -1,0 +1,22 @@
+weather-app/
+├── backend/
+│   ├── node_modules/
+│   ├── routes/
+│   │   └── weather.js
+│   ├── controllers/
+│   │   └── weatherController.js
+│   ├── app.js
+│   ├── package.json
+│   └── .env
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── WeatherDisplay.js
+│   │   │   └── SearchForm.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   ├── App.css
+│   ├── public/
+│   └── package.json
+└── README.md
+express, react, axios, dotenv, cord
